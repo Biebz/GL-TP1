@@ -1,2 +1,2 @@
 #! /bin/bash
-echo tu vas marcher saleté
+echo non
