@@ -1,2 +1,2 @@
 #! /bin/bash
-echo hello world, its me mario 
+echo tu vas marcher saleté
